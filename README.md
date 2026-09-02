@@ -19,3 +19,10 @@ const srv = bun.server ({
 
 
 usando o bruno portable fizemos testes das portas
+
+protocolo: http "://"
+host: endereço
+porta: acesso pra uma pagina ou parte especifica do servidor, identidade do serviço
+servidor: é um software
+
+url: universal, resource, locator
