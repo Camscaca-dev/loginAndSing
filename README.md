@@ -26,3 +26,7 @@ porta: acesso pra uma pagina ou parte especifica do servidor, identidade do serv
 servidor: é um software
 
 url: universal, resource, locator
+
+rodar com --watch sempre pra ir atualzando, c nao tem q para e rodar dnv a cada atualização
+
+tamo tentando testra as rotas
