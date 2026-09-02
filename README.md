@@ -11,7 +11,6 @@ const srv = bun.server ({
           PUT () => new Response("Cams_PUT"),
           DELETE () =>  new Response("Cams_DELETE"),
           POST () =>  new Response("Cams_POST"),
-         
      }
 }
 })
